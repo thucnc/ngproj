@@ -1,5 +1,5 @@
 # AngularJs Boiler-Plate PoC
-In this sample project, I used [ng-bp](https://github.com/ngbp/ngbp) as a standard template to build a nodejs web page, consuming data from Parse and deploy by HerokuDeployButtonForGitHub . 
+In this sample project, I used [ng-bp](https://github.com/ngbp/ngbp) as a standard template to build a nodejs web page, consuming data from Parse and deploy by HerokuDeployButtonForGitHub.
 
 <a href="https://heroku.com/deploy"><img border="0" alt="Deploy" src="https://www.herokucdn.com/deploy/button.png" /></a>
 
